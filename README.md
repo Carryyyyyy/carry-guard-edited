@@ -18,7 +18,7 @@
 
 
 
-**Silinecekler Kısımlar**
+**Silinecekler Kısımlar;**
 
 client1.on("ready", async () => {
   let botVoiceChannel = client1.channels.cache.get(ayarlar.botVoiceChannelID);//ayarlar.json botVoiceChannelID
@@ -37,7 +37,7 @@ client3.on("ready", async () => {
 
 ayarlar.json/ : botVoiceChannelID"
 
-**Silinecekler Kısımlar**
+**Silinecekler Kısımlar;**
 
 
 # Eğer Bir Hata Alırsanız Bana Ulaşın 
