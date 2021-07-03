@@ -10,4 +10,4 @@
 
 **guardbot3 - Kanal silme açma güncelleme koruma , webhook koruma , emoji silme yükleme güncelleme koruma**
 
-**ayarlar.json ve fayik.json klasörlerini doldurdukdan sonra rahatlıkla botu kullanabilirsiniz.**
+**ayarlar.json ve carry.json klasörlerini doldurdukdan sonra rahatlıkla botu kullanabilirsiniz.**
