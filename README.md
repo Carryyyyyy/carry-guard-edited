@@ -35,9 +35,10 @@ client3.on("ready", async () => {
   if (botVoiceChannel) botVoiceChannel.join().catch(err => console.error("Bot ses kanalına bağlanamadı!"));
 });/// Developed By CARRY
 
-ayarlar.json/ : botVoiceChannelID"```
+ayarlar.json/ : botVoiceChannelID"
+```
 
-**Silinecekler Kısımlar;**
+*Silinecekler Kısımlar;**
 
 
 # Eğer Bir Hata Alırsanız Bana Ulaşın 
