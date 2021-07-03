@@ -525,7 +525,8 @@ console.error(err.message)
 /// Developed By CARRY
 
 client3.on("ready", async () => {
-console.log(`${client3.user.username} ismi ile giriş yapıldı! Guard III Online`);
+console.log(`${client3.user.username} ismi ile giriş yapıldı! Guard III Online -
+Bu Alt Yapı Fayikcimin Alt Yapısıdır ve ! Carryyyyyy ✩#0001 - (740964663239508020) Tarafından Bir Kaç Hatası Düzeltilmiştir İyi Kullanımlar Dilerim.`);
 client3.user.setPresence({ activity: { name: ayarlar.botdurum }, status: ayarlar.status });
 });  
 client3.on("ready", async () => {
