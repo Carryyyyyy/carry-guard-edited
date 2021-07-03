@@ -38,7 +38,7 @@ client3.on("ready", async () => {
 ayarlar.json/ : botVoiceChannelID"
 ```
 
-*Silinecekler Kısımlar;**
+**Silinecekler Kısımlar;**
 
 
 # Eğer Bir Hata Alırsanız Bana Ulaşın 
