@@ -11,3 +11,35 @@
 **guardbot3 - Kanal silme açma güncelleme koruma , webhook koruma , emoji silme yükleme güncelleme koruma**
 
 **ayarlar.json ve carry.json klasörlerini doldurdukdan sonra rahatlıkla botu kullanabilirsiniz.**
+
+**BOTU SESE SOKMA KOMUTUNU EKLEDİM FAKAT GUARD BOTLARINI SESE SOKMANIZI ÖNERMİYORUM.**
+
+**Botunuzu Sese Sokmak istemiyorsanız İdleri Girmeyin Veya Ayarlardan Ve carry.js ' Den Ayar Yerlerini Siliniz.**
+
+
+
+**Silinecekler Kısımlar**
+
+client1.on("ready", async () => {
+  let botVoiceChannel = client1.channels.cache.get(ayarlar.botVoiceChannelID);//ayarlar.json botVoiceChannelID
+  if (botVoiceChannel) botVoiceChannel.join().catch(err => console.error("Bot ses kanalına bağlanamadı!"));
+});/// Developed By CARRY
+
+client2.on("ready", async () => {
+  let botVoiceChannel = client2.channels.cache.get(ayarlar.botVoiceChannelID);//ayarlar.json botVoiceChannelID
+  if (botVoiceChannel) botVoiceChannel.join().catch(err => console.error("Bot ses kanalına bağlanamadı!"));
+});/// Developed By CARRY
+
+client3.on("ready", async () => {
+  let botVoiceChannel = client3.channels.cache.get(ayarlar.botVoiceChannelID);//ayarlar.json botVoiceChannelID
+  if (botVoiceChannel) botVoiceChannel.join().catch(err => console.error("Bot ses kanalına bağlanamadı!"));
+});/// Developed By CARRY
+
+ayarlar.json/ : botVoiceChannelID"
+
+**Silinecekler Kısımlar**
+
+
+# Eğer Bir Hata Alırsanız Bana Ulaşın 
+: ! Carryyyyyy ✩#0001 - (740964663239508020)
+: ! Carryyyyyy#0001 - (740964663239508020) / TAGSIZ.
