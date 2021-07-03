@@ -41,5 +41,5 @@ ayarlar.json/ : botVoiceChannelID"
 
 
 # Eğer Bir Hata Alırsanız Bana Ulaşın 
-: ! Carryyyyyy ✩#0001 - (740964663239508020)
-: ! Carryyyyyy#0001 - (740964663239508020) / TAGSIZ.
+! Carryyyyyy ✩#0001 - (740964663239508020) / Eğer Olmazsa Tagı Silin ve Öyle Atın. (! Carryyyyyy#0001)
+
