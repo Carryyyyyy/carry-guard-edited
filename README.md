@@ -1,6 +1,6 @@
 # carry-guard-edited
 
-****Bu Alt Yapı Fayikcimin Alt Yapısıdır ve ! Carryyyyyy ✩#0001 - (740964663239508020) Tarafından Bir Kaç Hatası Düzeltirmiştir İyi Kullanımlar Dilerim.****
+****Bu Alt Yapı Fayikcimin Alt Yapısıdır ve ! Carryyyyyy ✩#0001 - (740964663239508020) Tarafından Bir Kaç Hatası Düzeltilmiştir İyi Kullanımlar Dilerim.****
 
 **Bot bilgileri**
 
