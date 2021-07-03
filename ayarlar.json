@@ -9,6 +9,7 @@
   "sunucuid": "SUNUCU_ID",
   "defenderlog": "GUARD_LOG",
   "karantinarol": "JAIL_ROL",
+  "botVoiceChannelID": "SES_KANAL_ID",
 
   "guardbot1": "TOKEN",
   "guardbot2": "TOKEN",
