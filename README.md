@@ -16,8 +16,6 @@
 
 **Botunuzu Sese Sokmak istemiyorsanız İdleri Girmeyin Veya Ayarlardan Ve carry.js ' Den Ayar Yerlerini Siliniz.**
 
-
-
 **Silinecekler Kısımlar;**
 
 ```client1.on("ready", async () => {
@@ -39,7 +37,6 @@ ayarlar.json/ : botVoiceChannelID"
 ```
 
 **Silinecekler Kısımlar;**
-
 
 # Eğer Bir Hata Alırsanız Bana Ulaşın 
 ! Carryyyyyy ✩#0001 - (740964663239508020) / Eğer Olmazsa Tagı Silin ve Öyle Atın. (! Carryyyyyy#0001)
