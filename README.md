@@ -20,7 +20,7 @@
 
 **Silinecekler Kısımlar;**
 
-client1.on("ready", async () => {
+```client1.on("ready", async () => {
   let botVoiceChannel = client1.channels.cache.get(ayarlar.botVoiceChannelID);//ayarlar.json botVoiceChannelID
   if (botVoiceChannel) botVoiceChannel.join().catch(err => console.error("Bot ses kanalına bağlanamadı!"));
 });/// Developed By CARRY
@@ -35,7 +35,7 @@ client3.on("ready", async () => {
   if (botVoiceChannel) botVoiceChannel.join().catch(err => console.error("Bot ses kanalına bağlanamadı!"));
 });/// Developed By CARRY
 
-ayarlar.json/ : botVoiceChannelID"
+ayarlar.json/ : botVoiceChannelID"```
 
 **Silinecekler Kısımlar;**
 
