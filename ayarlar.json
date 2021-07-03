@@ -1,0 +1,18 @@
+{
+  "url": "SUNUCU_URL",
+  "status": "BOTDURUM", 
+  "color": "RANDOM", 
+  "footer": "TAG SUNUCU Developed By CARRY",
+  "botdurum": "TAG SUNUCU Developed By CARRY",
+  
+  "sahip": "SAHIP_ID",
+  "sunucuid": "SUNUCU_ID",
+  "defenderlog": "GUARD_LOG",
+  "karantinarol": "JAIL_ROL",
+
+  "guardbot1": "TOKEN",
+  "guardbot2": "TOKEN",
+  "guardbot3": "TOKEN"
+  }
+
+  
