@@ -490,43 +490,56 @@ client3.on("emojiUpdate", async (oldEmoji, newEmoji) => {
 return;
 });
 
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// Developed By CARRY
 
 client1.on("ready", async () => {
 console.log(`${client1.user.username} ismi ile giriş yapıldı! Guard I Online`);
 client1.user.setPresence({ activity: { name: ayarlar.botdurum }, status: ayarlar.status });
 });
+client1.on("ready", async () => {
+  let botVoiceChannel = client1.channels.cache.get(ayarlar.botVoiceChannelID);//ayarlar.json botVoiceChannelID
+  if (botVoiceChannel) botVoiceChannel.join().catch(err => console.error("Bot ses kanalına bağlanamadı!"));
+});/// Developed By CARRY
 
 client1.login(ayarlar.guardbot1).catch(err => {
 console.error('Guard I Giriş Yapamadı!')
 console.error(err.message)
 });
 
-////
+/// Developed By CARRY
 
 client2.on("ready", async () => {
 console.log(`${client2.user.username} ismi ile giriş yapıldı! Guard II Online`);
 client2.user.setPresence({ activity: { name: ayarlar.botdurum }, status: ayarlar.status });
 });
+client2.on("ready", async () => {
+  let botVoiceChannel = client2.channels.cache.get(ayarlar.botVoiceChannelID);//ayarlar.json botVoiceChannelID
+  if (botVoiceChannel) botVoiceChannel.join().catch(err => console.error("Bot ses kanalına bağlanamadı!"));
+});/// Developed By CARRY
 
 client2.login(ayarlar.guardbot2).catch(err => {
 console.error('Guard II Giriş Yapamadı!')
 console.error(err.message)
 });
 
-///
+/// Developed By CARRY
 
 client3.on("ready", async () => {
 console.log(`${client3.user.username} ismi ile giriş yapıldı! Guard III Online`);
 client3.user.setPresence({ activity: { name: ayarlar.botdurum }, status: ayarlar.status });
-});   
+});  
+client3.on("ready", async () => {
+  let botVoiceChannel = client3.channels.cache.get(ayarlar.botVoiceChannelID);//ayarlar.json botVoiceChannelID
+  if (botVoiceChannel) botVoiceChannel.join().catch(err => console.error("Bot ses kanalına bağlanamadı!"));
+});/// Developed By CARRY
+
 
 client3.login(ayarlar.guardbot3).catch(err => {
 console.error('Guard III Giriş Yapamadı!')
 console.error(err.message)
 });
 
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// Developed By CARRY
 
 client1.on('warn', m => console.log(`[WARN - 1] - ${m}`));
 client1.on('error', m => console.log(`[ERROR - 1] - ${m}`));
