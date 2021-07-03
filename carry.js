@@ -12,10 +12,6 @@ const ayarlar = require('./ayarlar.json');
 const config = require('./carry.json');
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////
-//GÜVENLİ FONKSİYONU DENENECEK.//
-
-
-
 
 client1.on("guildBanAdd", async function(guild, user) {
   const entry = await guild
